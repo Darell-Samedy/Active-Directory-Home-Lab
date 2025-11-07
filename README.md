@@ -30,6 +30,8 @@ PowerShell – for automation and user management
 
 3. Configured Splunk and setup Splunk Enterprise
 ![image_alt]()
+![image_alt](https://github.com/Darell-Samedy/Active-Directory-Home-Lab/blob/main/Screenshot%202025-11-07%20001607.jpeg?raw=true)
+
 
 5. Configured Windows Server to static IP of 192.168.10.7
 
