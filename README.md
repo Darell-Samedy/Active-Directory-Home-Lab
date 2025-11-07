@@ -44,7 +44,7 @@ PowerShell – for automation and user management
 6. Applied GPOs changes for users within different departments
       - Password Policy
 
-      ![image_alt]()
+      ![image_alt](https://github.com/Darell-Samedy/Active-Directory-Home-Lab/blob/main/Screenshot%202025-11-07%20001830.jpeg?raw=true)
 
 Please note that this project is intended for educational and demonstration purposes only. All systems are deployed in an isolated lab environment.
 
