@@ -29,7 +29,7 @@ PowerShell – for automation and user management
    
 
 3. Configured Splunk and setup Splunk Enterprise
-![image_alt]()
+![image_alt](https://github.com/Darell-Samedy/Active-Directory-Home-Lab/blob/main/Screenshot%202025-11-07%20001658.jpeg?raw=true)
 ![image_alt](https://github.com/Darell-Samedy/Active-Directory-Home-Lab/blob/main/Screenshot%202025-11-07%20001607.jpeg?raw=true)
 
 
