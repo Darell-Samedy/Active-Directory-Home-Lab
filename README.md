@@ -7,7 +7,7 @@ Through this project, I strengthened my skills in Windows Server administration,
 
 # LAB SETUP/DIAGRAM 
 
-![image_alt]()
+![image_alt](https://github.com/Darell-Samedy/Active-Directory-Home-Lab/blob/main/HOMELAB%20SETUP.jpg?raw=true)
 
 # Tools & Technologies Used
 
