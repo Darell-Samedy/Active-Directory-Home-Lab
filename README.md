@@ -27,11 +27,13 @@ PowerShell – for automation and user management
 
 1. Installed VirutalBox along with all VMs.
 
-2. Configured Splunk and setup Splunk Enterprise
+   
 
-3. Configured Windows Server to static IP of 192.168.10.7
+3. Configured Splunk and setup Splunk Enterprise
 
-4. Installed ADDS within Server Manager and added Users with login credentials
+4. Configured Windows Server to static IP of 192.168.10.7
+
+5. Installed ADDS within Server Manager and added Users with login credentials
 - Darell Samedy
 - Larry Junior
 
