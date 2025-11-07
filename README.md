@@ -17,8 +17,6 @@ Windows Server 2022 – for AD DS, DNS, and DHCP
 
 Windows 10 Pro – as a client machine
 
-Kali Linux – for testing/attack simulations
-
 Splunk Enterprise – for log monitoring and SIEM simulation
 
 PowerShell – for automation and user management
@@ -31,16 +29,20 @@ PowerShell – for automation and user management
    
 
 3. Configured Splunk and setup Splunk Enterprise
+![image_alt]()
 
-4. Configured Windows Server to static IP of 192.168.10.7
+5. Configured Windows Server to static IP of 192.168.10.7
 
-5. Installed ADDS within Server Manager and added Users with login credentials
+6. Installed ADDS within Server Manager and added Users with login credentials
 - Darell Samedy
 - Larry Junior
 
+![image_alt]()
+
 6. Applied GPOs changes for users within different departments
       - Password Policy
-  
+
+      ![image_alt]()
 
 Please note that this project is intended for educational and demonstration purposes only. All systems are deployed in an isolated lab environment.
 
