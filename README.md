@@ -7,7 +7,7 @@ Through this project, I strengthened my skills in Windows Server administration,
 
 # LAB SETUP/DIAGRAM 
 
-[INSERT LAB SETUP IMAGE]
+![image_alt]()
 
 # Tools & Technologies Used
 
