@@ -27,6 +27,7 @@ PowerShell – for automation and user management
 
 1. Installed VirutalBox along with all VMs.
 
+![image_alt](https://github.com/Darell-Samedy/Active-Directory-Home-Lab/blob/main/vm.jpeg?raw=true)
    
 
 3. Configured Splunk and setup Splunk Enterprise
