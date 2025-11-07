@@ -39,7 +39,7 @@ PowerShell – for automation and user management
 - Darell Samedy
 - Larry Junior
 
-![image_alt]()
+![image_alt](https://github.com/Darell-Samedy/Active-Directory-Home-Lab/blob/main/Screenshot%202025-11-07%20001752.jpeg?raw=true)
 
 6. Applied GPOs changes for users within different departments
       - Password Policy
